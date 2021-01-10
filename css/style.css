@@ -9808,3 +9808,11 @@ select.input-field.type-2 {
   border: 1px solid #fff;
   border-radius: 50%;
 }
+
+.link-menu {
+  color: #ffccff;
+}
+
+.social-icons {
+  width: 20px;
+}
