@@ -1,42 +1,4 @@
 /*STYLE.CSS*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/*This is main CSS file that contains custom style rules used in this template*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/* Template Name: Delice.*/
-/* Version: 1.0 Initial Release*/
-/* Author: Gerich & Taras*/
-/* Copyright: (C) 2017 */
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/*--------------------------------------------------------*/
-/* TABLE OF CONTENTS: */
-/*--------------------------------------------------------*/
-/* 01 - RESET */
-/* 02 - EMPTY SPACE */
-/* 03 - BOOTSTRAP */
-/* 04 - HELP CLASSES */
-/* 05 - TYPOGRAPHY */
-/* 06 - FOOTERS */
-/* 07 - HEADERS */
-/* 08 - HOME PAGE */
-/* 09 - ABOUT */
-/* 10 - SERVICES */
-/* 11 - PAGE MENU */
-/* 12 - BLOG */
-/* 13 - SHOP */
-/* 14 - CHECKOUT */
-/* 15 - PRODUCT DETAIL */
-/* 16 - COMING SOON */
-/* 17 - HOME-6 */
-/* 18 - HOME-7 */
-/* 19 - GALLERY */
-/* 20 - CONTACT */
-/* 21 - QUICK POP-UP */
-/* 22 - LOG IN POP-UP */
-/* 23 - THEMEFOREST BUTTON */
-/* 24 - RESPONSIVE */
-/* 25 - SLIDER ANIMATION */
-
-/*-------------------------------------------------------------------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Bitter:400,400i');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,700');
